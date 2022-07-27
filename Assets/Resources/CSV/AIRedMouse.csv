@@ -1,0 +1,15 @@
+>Idle,
+Nohealth,Dead
+SawTarget,Pursue
+>Pursue,
+Nohealth,Dead
+LoseTarget,Default
+ReachTarget,Attack
+>Patrol,
+Nohealth,Dead
+SawTarget,Pursue
+>Attack,
+Nohealth,Dead
+WithoutAttackRange,Pursue
+LoseTarget,Default
+>Dead,

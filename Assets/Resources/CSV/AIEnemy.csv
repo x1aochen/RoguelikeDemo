@@ -1,0 +1,4 @@
+name,maxHp,moveSpeed,runSpeed,sightDist,attackDist,attack,AIConfiguration,sightAngle,detectionInterval,attackInterval,weaponID
+RedMouse,15,3,4,10,3,1,AIRedMouse,360,0.5,4,102
+ArrowSoldier,10,2,4,15,8,1,AIRedMouse,360,0.5,4,4
+BlueElder,10,2,4,15,8,1,AIRedMouse,360,0.5,5,5
